@@ -88,7 +88,7 @@
         </div>
         <!-- Welcome thumb -->
         <div class="welcome-thumb wow fadeInDown" data-wow-delay="0.5s">
-            <img src="img/landing-img/akuuuu.png" alt="">
+            <img src="img/landing-img/unnamed.gif" alt="">
         </div>
     </section>
     <!-- ***** Wellcome Area End ***** -->
